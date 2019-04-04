@@ -1,4 +1,4 @@
-package task4;
+package by.bntu.fitr.povt.jcats.javatasks.task4.logic;
 
 public class MatrixCalculator {
     public static void swapCols(double[][] array, int first, int second) {

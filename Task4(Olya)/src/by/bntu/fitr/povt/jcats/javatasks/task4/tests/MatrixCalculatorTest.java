@@ -1,10 +1,11 @@
-package task4.tests;
+package by.bntu.fitr.povt.jcats.javatasks.task4.tests;
 
-import task4.MatrixCalculator;
+import by.bntu.fitr.povt.jcats.javatasks.task4.logic.MatrixCalculator;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class MatrixCalculatorTest {
+public class
+MatrixCalculatorTest {
 
     @Test
     public void canSwapCols() {
